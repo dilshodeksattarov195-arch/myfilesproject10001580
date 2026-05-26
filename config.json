@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersecrypt",
+        "uuid": 641480,
+        "checksum": "t7vs2c"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
